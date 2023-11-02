@@ -5,8 +5,6 @@
     "\\BTL\\Models",
     "\\BTL\\Models\\EF",
     "\\BTL\\Models\\ViewModels",
-    "\\BTL\\Views\\Home",
-    "\\BTL\\Views\\Shared",
     "\\BTL\\wwwroot",
     "\\BTL\\wwwroot\\css"
   ],
