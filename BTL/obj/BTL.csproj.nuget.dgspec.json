@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\BTL\\BTL\\BTL.csproj": {}
+    "D:\\LaptopShop\\BTL\\BTL.csproj": {}
   },
   "projects": {
-    "D:\\C#\\BTL\\BTL\\BTL.csproj": {
+    "D:\\LaptopShop\\BTL\\BTL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\BTL\\BTL\\BTL.csproj",
+        "projectUniqueName": "D:\\LaptopShop\\BTL\\BTL.csproj",
         "projectName": "BTL",
-        "projectPath": "D:\\C#\\BTL\\BTL\\BTL.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\BTL\\BTL\\obj\\",
+        "projectPath": "D:\\LaptopShop\\BTL\\BTL.csproj",
+        "packagesPath": "C:\\Users\\FPT\\.nuget\\packages\\",
+        "outputPath": "D:\\LaptopShop\\BTL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FPT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "D:\\EmptyFramwork": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
