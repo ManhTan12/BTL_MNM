@@ -8,11 +8,16 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\ACER\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\FPT\\.nuget\\packages\\": {}
+>>>>>>> 24113cc207a3035257abae05cee7659c49892860
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Desktop\\BTL_MNM\\BTL\\BTL.csproj",
       "projectName": "BTL",
       "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\BTL_MNM\\BTL\\BTL.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "D:\\LaptopShop\\BTL\\BTL.csproj",
+      "projectName": "BTL",
+      "projectPath": "D:\\LaptopShop\\BTL\\BTL.csproj",
+      "packagesPath": "C:\\Users\\FPT\\.nuget\\packages\\",
+      "outputPath": "D:\\LaptopShop\\BTL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\FPT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 24113cc207a3035257abae05cee7659c49892860
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +79,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+>>>>>>> 24113cc207a3035257abae05cee7659c49892860
       }
     }
   }
